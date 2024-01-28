@@ -1,1 +1,1 @@
-# practiceGit
+JavaScript Series
