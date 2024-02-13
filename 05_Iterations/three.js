@@ -42,3 +42,6 @@ const myObject = {
 //     console.log(key, ':-', value);
     
 // }
+
+
+/*NOTE- There diffent ways of interationing Maps and Objects /*
