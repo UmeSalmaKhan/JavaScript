@@ -7,7 +7,7 @@
 ## Project 1
 
 ```javascripy
-console.log("salma")
+console.log("salma's Page color change Solution code")
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
